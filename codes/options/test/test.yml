@@ -1,0 +1,18 @@
+name: K10
+model: condition
+distortion: sr
+scale: 1
+gpu_ids: [6,7]
+
+datasets:
+  test:  # the 1st test dataset
+    name: Reconstruction
+    mode: LQGT_condition_Val
+    Test_K_ford: K10
+    dataroot: /remote-home/share/jiaqi2/Dataset
+    condition: image
+  
+#### path
+path:
+  root: ./
+  pretrain_model_G: /remote-home/share/jiaqi2/FilmRemoval/experiments/K1/models/100_G.pth

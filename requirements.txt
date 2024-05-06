@@ -1,0 +1,15 @@
+numpy==1.18.5
+torch==1.8.1
+torchvision==0.9.1
+opencv_contrib_python==4.2.0.34
+yaml
+tensorboard
+lmdb
+scipy
+timm
+einops
+mpi4py
+tqdm
+xgboost
+scikit-learn
+scikit-image
