@@ -30,8 +30,8 @@ Here is our [Project Page](https://jqt.me/_FilmRemoval_/) !
 
 ## 📢 **News and Updates**
 
-- ✅ Apr 29, 2024. We release the code of Film Removal.
-- ✅ Apr 29, 2024. We release the dataset of Film Removal. Check this Google Cloud link for [DOWNLOAD](https://drive.google.com/file/d/1oi2KyF1ShQqaoF38A02OupDZ4CNvEap3/view?usp=sharing).
+- ✅ May 06, 2024. We release the code of Film Removal.
+- ✅ May 06, 2024. We release the dataset of Film Removal. Check this Google Cloud link for [DOWNLOAD](https://drive.google.com/file/d/1oi2KyF1ShQqaoF38A02OupDZ4CNvEap3/view?usp=sharing).
 
 
 ## ▶️ **Getting Started**
