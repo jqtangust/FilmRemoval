@@ -30,6 +30,7 @@ Here is our [Project Page](https://jqt.me/_FilmRemoval_/) !
 
 ## 📢 **News and Updates**
 
+- ✅ May 28, 2024. We release the pre-trained model of Film Removal in K-ford. Check this Google Cloud link for [DOWNLOAD](https://drive.google.com/file/d/13Cn7tX5bFBxsYZG1Haw5VcqhSxWnNzMW/view?usp=sharing).
 - ✅ May 06, 2024. We release the code of Film Removal.
 - ✅ May 06, 2024. We release the dataset of Film Removal. Check this Google Cloud link for [DOWNLOAD](https://drive.google.com/file/d/1oi2KyF1ShQqaoF38A02OupDZ4CNvEap3/view?usp=sharing).
 
@@ -79,7 +80,7 @@ Here is our [Project Page](https://jqt.me/_FilmRemoval_/) !
         ├── ...
     ```
 
-### 🏰 *Pretrained Model* [TODO]
+### 🏰 *Pretrained Model*
 - Google Drive Link for downloading our [Pretrained Model](https://drive.google.com/file/d/13Cn7tX5bFBxsYZG1Haw5VcqhSxWnNzMW/view?usp=sharing) in K-Ford.
 
 ### 🔨 *Configuration*
