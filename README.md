@@ -80,13 +80,7 @@ Here is our [Project Page](https://jqt.me/_FilmRemoval_/) !
     ```
 
 ### 🏰 *Pretrained Model* [TODO]
-- Google Drive Link for downloading our [Pretrained Model]().
-- Performace in K-Ford.
-  | Model | K1 | k2 | K3| K4 | K5 | K6 | K7 | K8 | K9 | K10 |
-  |-------|----|----|---|----|----|----|----|----|----|----|
-  | PSNR| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-  | SSIM| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-
+- Google Drive Link for downloading our [Pretrained Model](https://drive.google.com/file/d/13Cn7tX5bFBxsYZG1Haw5VcqhSxWnNzMW/view?usp=sharing) in K-Ford.
 
 ### 🔨 *Configuration*
 
