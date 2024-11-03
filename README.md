@@ -174,7 +174,7 @@ Compared with other baselines, our model achieves state-of-the-art performance:
 
 ## 📧 **Connecting with Us?**
 
-If you have any questions, please feel free to send email to `jtang092@connect.ust.hk`.
+If you have any questions, please feel free to send email to `jtang092@connect.hkust-gz.edu.cn`.
 
 
 ## 📜 **Acknowledgment**
